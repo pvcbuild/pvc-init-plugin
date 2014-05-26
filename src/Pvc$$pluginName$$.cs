@@ -9,7 +9,7 @@ namespace PvcPlugins
 {
     public class Pvc$$pluginName$$ : PvcPlugin
     {
-        public void Pvc$$pluginName$$()
+        public Pvc$$pluginName$$()
         {
             // Plugin setup
         }
